@@ -1,7 +1,5 @@
 # UAS GRAFKOM 2023
 
-Kelompok 23<br/>
-
 Nama Anggota:
 - C14210176 - Joy Immanuel David Kaihatu <br/>
 - C14210004 - Andreas Pandu Pamungkas<br/>
