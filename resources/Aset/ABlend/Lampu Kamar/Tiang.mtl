@@ -1,0 +1,57 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 4
+
+newmtl Rack.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Rack\\Rack_normal.png
+map_Kd C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Rack\\Rack_color.png
+map_Ns C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Rack\\Rack_roughness.png
+refl C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Rack\\Rack_metallic.png
+
+newmtl Ring.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Ring\\Ring_normal.png
+map_Kd C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Ring\\Ring_color.png
+map_Ns C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Ring\\Ring_roughness.png
+refl C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Ring\\Ring_metallic.png
+
+newmtl Thread.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Thread\\Thread_normal.png
+map_Kd C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Thread\\Thread_color.png
+map_Ns C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Thread\\Thread_roughness.png
+
+newmtl Thread_Balls.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Thread Balls\\Thread Balls_normal.png
+map_Kd C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Thread Balls\\Thread Balls_color.png
+map_Ns C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Thread Balls\\Thread Balls_roughness.png
+refl C:\\Users\\ANDREA~1\\AppData\\Local\\Temp\\Rar$DIa10160.17334\\Textures\\Thread Balls\\Thread Balls_metallic.png
