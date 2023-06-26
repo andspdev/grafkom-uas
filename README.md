@@ -1,5 +1,7 @@
 # UAS GRAFKOM 2023
 
+Judul: Terperangkap dalam Rumah Angker
+
 Nama Anggota:
 - C14210176 - Joy Immanuel David Kaihatu <br/>
 - C14210004 - Andreas Pandu Pamungkas<br/>
